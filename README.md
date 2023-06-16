@@ -1,4 +1,4 @@
-![logo](https://github.com/ChandraShekhar1729/ChandraShekhar1729/blob/main/github-header-image%20(2).png)
+![logo](https://github.com/ChandraShekhar1729/ChandraShekhar1729/blob/main/github-header-image%20(4).png)
 <h1 align="center">Hi 👋, I'm Chandra Shekhar</h1>
 <h3 align="center">A passionate Full-stack developer</h3>
 <img align="right" alt="Coding" width="400"/src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
