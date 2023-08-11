@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **chandusj2001@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ chandra1729](www.linkedin.com/in/ chandra1729)
+- 📄 Know about my experiences [www.linkedin.com/in/ chandra1729]
 
-- ⚡ Fun fact **The more u will study , the more u know how much more u don't know.**
+- ⚡ Fun fact **: The more u will study, the better u will know how much more you don't know.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
